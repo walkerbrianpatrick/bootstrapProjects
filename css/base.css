@@ -40,3 +40,23 @@ section#intro-header .btn-default {
   background-color: rgba(255, 255, 255, 0.5);
   border: none;
 }
+
+section#features {
+  background-color: #eef2f5;
+  border-top: 0.1rem solid #e8e8e8;
+  border-bottom: 0.1rem solid #e8e8e8; 
+}
+
+section#features * {
+  color: #657C83;
+}
+
+section#features .feature {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  text-align: center;
+}
+
+
+
+
